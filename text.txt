@@ -1,3 +1,7 @@
 It is line one for test purpose.
+<<<<<<< HEAD
 New line for test purpose.
 It is changed in web version of github.
+=======
+It is changed in online editing in github.
+>>>>>>> f3d91bf0b8e588ff7fcb91d94c016269cfea72d2
