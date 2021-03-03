@@ -1,1 +1,1 @@
-It is file2 changes at local repository.
+Merge conflict resolved.
