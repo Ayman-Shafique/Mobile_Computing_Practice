@@ -1,3 +1,2 @@
 It is line one for test purpose.
-New line for test purpose.
-Now it is edited.
+It is changed in online editing.
