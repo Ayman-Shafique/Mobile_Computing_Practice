@@ -1,1 +1,1 @@
-Merge conflict resolved.
+It is File 2.
